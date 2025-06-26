@@ -21,3 +21,55 @@ Uma estrutura de dados é uma maneira particular de organizar dados em um comput
 O livro "Estruturas de dados e algoritmos com JavaScript" começa abordando o básico sobre JavaScript e apresenta a ECMAScript 2017, antes de passar gradualmente para as estruturas de dados mais importantes, como arrays, filas, pilhas e listas ligadas. Você adquirirá um conhecimento profundo sobre como as tabelas hash e as estruturas de dados para conjuntos funcionam, assim como de que modo as árvores e os mapas hash podem ser usados para buscar arquivos em um disco rígido ou para representar um banco de dados. Este livro serve como um caminho para você mergulhar mais fundo no JavaScript. Você também terá uma melhor compreensão de como e por que os grafos – uma das estruturas de dados mais complexas que há – são amplamente usados em sistemas de navegação por GPS e em redes sociais.
 
 [Compre na Amazon](https://www.amazon.com.br/Estruturas-Dados-Algoritmos-Com-Javascript/dp/8575226932)
+
+
+![Capa O Mítico Homem-mês: Ensaios Sobre Engenharia de Software](https://m.media-amazon.com/images/I/71HNGP3tJbL._SY522_.jpg)
+
+Poucos livros sobre gestão de projetos de software têm sido tão influentes e perenes quanto O Mítico Homem-Mês. Com uma rica mistura de fatos sobre engenharia de software e opiniões que provocam a reflexão, Frederick Brooks oferece sua visão para todos aqueles que lidam com a gestão de projetos complexos.
+Os ensaios deste livro vêm diretamente da experiência de Frederick como gerente de projetos para a família de computadores System/360 da IBM e, posteriormente, com o OS/360, seu massivo sistema de software. Passados 20 anos da publicação original, em 1975, Brooks revisou suas ideias originais, adicionando novos pensamentos e conselhos em uma edição especial de aniversário.
+
+Agora, quase 35 anos depois da primeira edição, comemorando sua primeira versão em português, Brooks concede uma entrevista exclusiva sobre seu trabalho, que os leitores podem conferir nas primeiras páginas deste livro.
+
+O argumento central de O Mítico Homem-Mês é o de que grandes projetos de programação sofrem de problemas de gestão cuja natureza difere dos projetos pequenos em função da divisão das tarefas; a integridade conceitual de um produto é um fator crítico em seu desenvolvimento; e que é difícil, mas possível, atingir tal integridade. Seu ensaio seminal de 1986, "Não existe bala de prata" também está aqui, complementado por um novo texto da edição de 1995, onde Brooks afirma que "Não haverá nenhuma bala de prata no intervalo de dez anos". Estes dez anos já se passaram e Brooks continua atual.
+
+[Compre na Amazon](https://www.amazon.com.br/dp/8550802530?ref=ppx_yo2ov_dt_b_fed_asin_title)
+
+![Capa Aprenda programação funcional: como pensar funcionalmente para trabalhar com códigos complexos](https://m.media-amazon.com/images/I/41ozIc8Q-HL._SY445_SX342_ControlCacheEqualizer_.jpg)
+
+Aprenda a pensar e a escrever códigos como um programador funcional. Com este guia prático, desenvolvedores de softwares familiarizados com a programação orientada a objetos (POO) mergulharão de cabeça nos principais conceitos da programação funcional (PF) e aprenderão a usar recursos funcionais e da POO em projetos de softwares grandes ou complexos.
+
+O autor Jack Widman usa amostras de Java, Python, C#, Scala e JavaScript para ajudá-lo a adquirir uma nova perspectiva e um conjunto de ferramentas para lidar com a complexidade do seu domínio de problema. Você aprenderá a escrever códigos mais simples, reutilizáveis, mais fáceis de testar e modificar e consistentemente mais corretos. Este livro também mostra como utilizar padrões da teoria das categorias para ajudá-lo a preencher a lacuna entre a POO e a programação funcional.
+
+• Aprenda o básico da programação funcional e explore as maneiras como os programadores funcionais abordam os problemas.
+
+• Descubra em que sentidos a programação funcional é diferente da programação orientada a objetos e imperativa.
+• Utilize um conjunto de padrões de design práticos e aplicáveis que modelam a realidade de maneira funcional.
+
+• Aprenda a incorporar recursos da programação funcional e da orientada a objetos em projetos de software.
+
+• Aplique padrões de design funcionais de modo apropriado e use-os para escrever códigos corretos, robustos e facilmente modificáveis.
+
+“Este livro ressalta a beleza e a segurança da programação funcional. Ele me esclareceu tópicos que, por um bom tempo, eu não conseguia entender direito e me inspirou a começar a utilizar mais técnicas de programação funcional no meu trabalho profissional.”
+
+— Matthew Campagna, PhD
+Engenheiro principal sênior, Amazon Web Services
+
+[Compre na Amazon](https://www.amazon.com.br/Aprenda-programa%C3%A7%C3%A3o-funcional-funcionalmente-trabalhar-ebook/dp/B0DWBRSCVS?crid=1K3K34JD249Q5&dib=eyJ2IjoiMSJ9.N-DRVdXE6RIB_icbWhT-tVNiQtLA5wLlB5faiSGNngU_-hHfu6vBygKuhoTBNAuN5qpduWKo3iKBvW4w6DG1aYcRIOy1XoRf-SA5vs4m_mKSSDRvZ6jNb9I2hGVJhVBCJK-PZcnSUQBfEN8mKHT2-htWN-NJcpml9U3PTo9stHT8l2ZfB44plqC8Xe3cxA_NMSJdVH2WVD-ntVXMqAFqZlrXz9drDxVVDSg6xIjPr5n0wzJIAibFGGaOc99ccVxYsYwwaYOooDFQyx4VkwxvqRe4fh1nx8cGeJmBqAkpF7g.Y4_i-R_3KRvN_bXSSYEWOzPJ5FF7BDbZ-bs3P7BvRsY&dib_tag=se&keywords=aprenda+programa%C3%A7%C3%A3o+funcional&qid=1750958385&sprefix=aprenda+programa%C3%A7%C3%A3o%2Caps%2C275&sr=8-1)
+
+![Capa Domain-Driven Design: Atacando as Complexidades no Coração do Software](https://m.media-amazon.com/images/I/718UG0KPHpL._SY522_.jpg)
+
+A comunidade de desenvolvimento de softwares reconhece que a modelagem de domínios é fundamental para o design de softwares. Através de modelos de domínios, os desenvolvedores de software conseguem expressar valiosas funcionalidades e traduzi-las em uma implementação de software que realmente atenda às necessidades de seus usuários. Mas, apesar de sua óbvia importância, existem poucos recursos práticos que explicam como incorporar uma modelagem de domínios eficiente no processo de desenvolvimento de softwares.
+
+O Domain-Driven Design atende essa necessidade. Este não é um livro sobre tecnologias específicas. Ele oferece aos leitores uma abordagem sistemática com relação ao domain-driven design, ou DDD, apresentando um conjunto abrangente de práticas ideais de design, técnicas baseadas em experiências e princípios fundamentais que facilitam o desenvolvimento de projetos de software que enfrentam domínios complexos. Reunindo práticas de design e implementação, este livro incorpora vários exemplos baseados em projetos que ilustram a aplicação do design dirigido por domínios no desenvolvimento de softwares na vida real.
+
+Com este livro em mãos, desenvolvedores orientados a objetos, analistas de sistema e designers terão a orientação de que precisam para organizar e concentrar seu trabalho, criar modelos de domínio valiosos e úteis, e transformar esses modelos em implementações de software duradouras e de alta qualidade.
+
+[Compre na Amazon](https://www.amazon.com.br/Domain-Driven-Design-Atacando-Complexidades-Software/dp/8550800651?crid=15HTC35L4TIGG&dib=eyJ2IjoiMSJ9.k6A3_gEx4SYq8qBDBaYmDa_UGujgEuTtM5-YNqEGqrNITm7AeeMAz-tQRKVcg6v6tarCDrAsLb-bu5YtDyWnb4Zg6erIq39KASOkGPZZmY7V6hvp99wlljd0pTa-MRP9d6hNXmnWF95vBS3KmPRDxXqZ2yir5AtwhayTlZ4Q27rxYLpM-7Y540LV1SoBF435gd72_iAwo0p3ewlPeWCSvJeufWySHeEeOerLmJB3MWaasxEghAlYayT5XaEhxfIEL50d0l7FbtAbKYqy8LBGPKlEFtg6nObLHH_6x7agf-w.H8gkGueI_f_VGpBnB1aVdPws4HSlfCAwsj1cvKnrJto&dib_tag=se&keywords=domain+drive+design&qid=1750958451&sprefix=domain+drive+des%2Caps%2C287&sr=8-2&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d)
+
+![Capa Fundamentos da Arquitetura de Software: uma Abordagem de Engenharia](https://m.media-amazon.com/images/I/61aIS4n2jZL._SY522_.jpg)
+
+"Fundamentos da Arquitetura de Software No mundo inteiro, pesquisas de salário colocam sistematicamente a arquitetura de software entre os dez melhores empregos, embora não exista nenhum guia real para ajudar os desenvolvedores a se tornarem arquitetos. Até agora. Este livro fornece a primeira visão geral completa de muitos aspectos da arquitetura de software. Aspirantes a arquitetos e os já praticantes examinarão da mesma forma as características e padrões da arquitetura, a determinação de componentes, as arquiteturas de diagramação, de apresentação, evolucionária e muitos outros tópicos. Mark Richards e Neal Ford, profissionais experientes que ensinam arquitetura de software profissionalmente há anos, focam os princípios da arquitetura que se aplicam a todas as camadas da tecnologia. Você explorará a arquitetura de software de um ponto de vista moderno, levando em conta todas as inovações da última década. Este livro examina: Padrão da arquitetura: a base técnica para muitas decisões de arquitetura. Componentes: identificação, acoplamento, coesão, particionamento e granularidade. Habilidades sociais: gestão eficiente da equipe, reuniões, negociação, apresentações etc. Modernidade: práticas de engenharia e abordagens operacionais que mudaram radicalmente nosúltimos anos. Arquitetura como disciplina de engenharia: resultados repetidos, métricas e avaliações concretas que acrescentam rigor à arquitetura de software. *** “Quer seja novo na função ou se já é arquiteto há anos, este livro o ajudará a ser melhor no seu trabalho. Só gostaria que ele tivesse sido escrito antes na minha carreira.” ―Nathaniel Schutta “Arquiteto como serviço”, netschutta.io “Este livro servirá como um guia para muitos em sua jornada no domínio da arquitetura de software.” 
+
+― Rebecca J. Parsons CTO, ThoughtWorks
+
+[Compre na Amazon](https://www.amazon.com.br/Fundamentos-Arquitetura-Software-Abordagem-Engenharia/dp/8550819859?crid=12QP5QT332RIJ&dib=eyJ2IjoiMSJ9.MvcBgbyiVODTr2aeAdC1-SS6wLIXwUfFbBO49TRJql50hhMpRddzgmSi2uCCkv4MYRsr58IhDiP8e0Pn9fpEckFnIZVtJTBiTnYYBDzHEorgxeMEINEtBpaDLXDrzcDJkov4VQJbAZE-iaETwzEaJfIJ58j8yNTetV27AVXd-dnSt3FAMg-ulWss093KF88OKLRhdsa3d4Ef5vj8wmbMdTECI3u0NJlPQoZjvBCwunYXMUbAB3pP9DgCf8u0jcEk9uQET7jtWJoqA5Lyb0zd41N4L3qPntImfJ61QCyHxrM.ww1v_WwZtcpErmxlzHzMtjGfx5Gpi9oNXqNT9HUGZl8&dib_tag=se&keywords=fundamentos+da+arquitetura+de+software&qid=1750958538&sprefix=fundamentos+%2Caps%2C322&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
