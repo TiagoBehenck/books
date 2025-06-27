@@ -73,3 +73,46 @@ Com este livro em mãos, desenvolvedores orientados a objetos, analistas de sist
 ― Rebecca J. Parsons CTO, ThoughtWorks
 
 [Compre na Amazon](https://www.amazon.com.br/Fundamentos-Arquitetura-Software-Abordagem-Engenharia/dp/8550819859?crid=12QP5QT332RIJ&dib=eyJ2IjoiMSJ9.MvcBgbyiVODTr2aeAdC1-SS6wLIXwUfFbBO49TRJql50hhMpRddzgmSi2uCCkv4MYRsr58IhDiP8e0Pn9fpEckFnIZVtJTBiTnYYBDzHEorgxeMEINEtBpaDLXDrzcDJkov4VQJbAZE-iaETwzEaJfIJ58j8yNTetV27AVXd-dnSt3FAMg-ulWss093KF88OKLRhdsa3d4Ef5vj8wmbMdTECI3u0NJlPQoZjvBCwunYXMUbAB3pP9DgCf8u0jcEk9uQET7jtWJoqA5Lyb0zd41N4L3qPntImfJ61QCyHxrM.ww1v_WwZtcpErmxlzHzMtjGfx5Gpi9oNXqNT9HUGZl8&dib_tag=se&keywords=fundamentos+da+arquitetura+de+software&qid=1750958538&sprefix=fundamentos+%2Caps%2C322&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
+
+![Capa Código Limpo: Habilidades Práticas do Agile Software](https://m.media-amazon.com/images/I/71dH97FwGbL._SY522_.jpg)
+
+Mesmo um código ruim pode funcionar. Mas se ele não for limpo, pode acabar com uma empresa de desenvolvimento. Perdem-se a cada ano horas incontáveis e recursos importantes devido a um código mal escrito. Mas não precisa ser assim.
+
+O renomado especialista em software, Robert C. Martin, apresenta um paradigma revolucionário com Código limpo: Habilidades Práticas do Agile Software. Martin se reuniu com seus colegas do Mentor Object para destilar suas melhores e mais ágeis práticas de limpar códigos “dinamicamente” em um livro que introduzirá gradualmente dentro de você os valores da habilidade de um profissional de softwares e lhe tornar um programador melhor –mas só se você praticar.
+
+Que tipo de trabalho você fará? Você lerá códigos aqui, muitos códigos. E você deverá descobrir o que está correto e errado nos códigos. E, o mais importante, você terá de reavaliar seus valores profissionais e seu comprometimento com o seu ofício.
+
+Código limpo está divido em três partes. Na primeira há diversos capítulos que descrevem os princípios, padrões e práticas para criar um código limpo.
+
+A segunda parte consiste em diversos casos de estudo de complexidade cada vez maior. Cada um é um exercício para limpar um código – transformar o código base que possui alguns problemas em um melhor e eficiente. A terceira parte é a compensação: um único capítulo com uma lista de heurísticas e “odores” reunidos durante a criação dos estudos de caso. O resultado será um conhecimento base que descreve a forma como pensamos quando criamos, lemos e limpamos um código.
+
+
+Após ler este livro os leitores saberão:
+
+✔ Como distinguir um código bom de um ruim
+
+✔ Como escrever códigos bons e como transformar um ruim em um bom
+
+✔ Como criar bons nomes, boas funções, bons objetos e boas classes
+
+✔ Como formatar o código para ter uma legibilidade máxima
+
+✔ Como implementar completamente o tratamento de erro sem obscurecer a lógica
+
+✔ Como aplicar testes de unidade e praticar o desenvolvimento dirigido a testes
+
+Este livro é essencial para qualquer desenvolvedor, engenheiro de software, gerente de projeto, líder de equipes ou analistas de sistemas com interesse em construir códigos melhores.
+
+[Compre na Amazon](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=263CM874NC6GV&dib=eyJ2IjoiMSJ9.sBTjfwPCutWkDIRKC6d8WBJspSEw78nUHq8VTPL6GSyx-3mQ8-t4eMz2lAKxbDmrr6yj5tisueDW-RHgygZcEK7cn73XSnJ56f4Kp4IfX09GO2gBCkdSppv9pckL0QXNzhFOmdvPp4s7ciYdb4xGUI3pkJSaOIItsohy1_Xvrom3hCz2R6u38UukNXzmDm62ZY2OOOGWyighjnzh40rxBPZB-sZ4GLHUhFqzoludlBluUXP0FmyItNQb9bpgMzsgfBO4XOAvYrkFjYFHnhy9NHmdcNf3BaEoenmKfIwB1Qg.A3Q8y9qnhmVBtQJ5cOl1lqqYySYF77QNeKVGY5WyFkk&dib_tag=se&keywords=c%C3%B3digo+limpo&qid=1751029238&sprefix=c%C3%B3digo+limpo%2Caps%2C211&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
+
+![Capa Refatoração - 2ª Edição](https://m.media-amazon.com/images/I/81sTm5M7wjL._SY522_.jpg)
+
+Por mais de vinte anos, programadores experientes no mundo inteiro contaram com o livro Refatoração de Martin Fowler para aperfeiçoar o design de códigos existentes e melhorar a manutenibilidade do software, assim como para deixar o código existente mais fácil de entender. Essa nova edição ansiosamente esperada foi atualizada por completo para refletir mudanças vitais no domínio da programação. Refatoraçã 2ª edição contém um catálogo atualizado das refatorações e inclui exemplos de código JavaScript bem como novos exemplos funcionais que demonstram a refatoração sem classes. Assim como na edição original, este livro explica o que é refatoração, por que você deve refatorar, como reorganizar um código que precise de refatoração e como fazer isso de forma bem-sucedida, independentemente da linguagem usada. Entenda o processo e os princípios básicos da refatoração. Aplique rapidamente refatorações convenientes para deixar um programa mais fácil de entender e de alterar. Reconheça “maus cheiros” no código que sinalizam oportunidades para refatorar. Explore as refatorações, cada uma com suas explicações, a motivação, o mecanismo e exemplos simples. Escreva testes robustos para suas refatorações. Reconheça as contrapartidas e os obstáculos para a refatoração.
+
+[Compre na Amazon](https://www.amazon.com.br/Refatora%C3%A7%C3%A3o-Aperfei%C3%A7oando-Design-C%C3%B3digos-Existentes/dp/8575227246?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=397H0XTJZBAEH&dib=eyJ2IjoiMSJ9.l-XdfbvFtE5YdUcDIvTdVGV0rJUC2-d2L7dm3Dv9M_jsHdsaqadZGYaUT41uMom9.8dMo9LglOg1tpWaCdfQ9LYAjFD1uFZMNLzNJlV1oATg&dib_tag=se&keywords=refator%C3%A7%C3%A3o&qid=1751029338&sprefix=refator%C3%A7%C3%A3%2Caps%2C230&sr=8-1&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d)
+
+![Capa A Arte da Gestão: um Guia Prático Para Integrar Liderança e Recursos Humanos no Setor de Tecnologia](https://m.media-amazon.com/images/I/813nQl2hwlL._SY522_.jpg)
+
+Desde a atuação como mentor de estagiários à colaboração com a equipe sênior, você encontrará excelentes orientações para os diversos obstáculos que surgirão ao longo do caminho. Este livro é ideal para novos gerentes, mentores e líderes mais experientes em busca de novas perspectivas. Embarque na leitura e aperfeiçoe suas habilidades como gerente e líder em sua organização.
+
+[Compre na Amazon](https://www.amazon.com.br/Arte-Gest%C3%A3o-Integrar-Lideran%C3%A7a-Tecnologia/dp/8550803715?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1G8YJM021XOSH&dib=eyJ2IjoiMSJ9.cTJqDOwXBdP_0-PfgXtvLX_50affKUG7AyXhHvsZa42qnRUB9K9eysKMLiQOmQfC8OmbRTsCCQmLBO6SdJwsHHMPRuHTIxQiAHgz9yscyBVIpcDXeQC8Cmgxr_NUbvEjijBGO2UGbIEB3EIOeDkBFmUbIl4KCIowbGgOc2HuGIsl-SZQ_vB1Ig-XILXg3sQ98MMLbmEo7iRplLcSpYnWsn3RoZHuNLFBznZ_GpebAX9zs382GgoW_Dv_ghcT9VKpqX_tFGUmH7KwojC5Z-68_ayZX5ndDJE98TIGJaU5Ff8.uPv-ZBgo4SDty71FPOtridAUoU1vcB6vjJKhyh4pj_8&dib_tag=se&keywords=a+arte+da+gest%C3%A3o&qid=1751029421&sprefix=a+arte+da+ges%2Caps%2C325&sr=8-1&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9)
